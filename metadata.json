@@ -1,0 +1,8 @@
+{
+  "name": "VocalSensei - Real-Time AI Vocal Coach",
+  "description": "An AI singing coach that measures pitch accuracy, rhythm timing, vibrato, and note control with real-time feedback, guided practice, and session progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
